@@ -1,7 +1,7 @@
 # Selector Detective - jQuery assignment #6
 
 A birthday party in a dolls' house, a vanished cake and a lot of jQuery.
-Astana IT University, Web Technologies. Student: Ravil Maratov, group IT2511.
+Astana IT University, Web Technologies. Student: Aruzhan Zhaksylyk, group IT-2511.
 
 ## Run
 
